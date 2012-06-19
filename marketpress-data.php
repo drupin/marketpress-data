@@ -519,6 +519,59 @@ $this->antigua_barbuda_regions = array(
   "PH"=>"St. Philip",
 );
 
+$this->argentina_regions = array(
+  "A"=>"Salta",
+  "B"=>"Buenos Aires Province",
+  "C"=>"Capital Federal",
+  "D"=>"San Luis",
+  "E"=>"Entre Ríos",
+  "F"=>"La Rioja",
+  "G"=>"Santiago del Estero",
+  "H"=>"Chaco",
+  "J"=>"San Juan",
+  "K"=>"Catamarca",
+  "L"=>"La Pampa",
+  "M"=>"Mendoza",
+  "N"=>"Misiones",
+  "P"=>"Formosa",
+  "Q"=>"Neuquén",
+  "R"=>"Río Negro",
+  "S"=>"Santa Fe",
+  "T"=>"Tucumán",
+  "U"=>"Chubut",
+  "V"=>"Tierra del Fuego",
+  "W"=>"Corrientes",
+  "X"=>"Córdoba",
+  "Y"=>"Jujuy",
+  "Z"=>"Santa Cruz",
+);
+
+$this->armenia_regions = array(
+  "AG"=>"Araqacotn",
+  "AR"=>"Ararat",
+  "AV"=>"Armavir",
+  "ER"=>"Erevan",
+  "GR"=>"Geqarkunik",
+  "KT"=>"Kotayk",
+  "LO"=>"Lory",
+  "SH"=>"Sirak",
+  "SU"=>"Syunik",
+  "TV"=>"Tavus",
+  "VD"=>"Vayoc Jor",
+);
+
+$this->austria_regions = array(
+  "BUR"=>"Burgenland",
+  "KAR"=>"Kärnten",
+  "NOS"=>"Niederöesterreich",
+  "OOS"=>"Oberöesterreich",
+  "SAL"=>"Salzburg",
+  "STE"=>"Steiermark",
+  "TIR"=>"Tirol",
+  "VOR"=>"Vorarlberg",
+  "WIE"=>"Wien",
+  );
+
 
 //European Union Member countries in ISO 3166-1 alpha-2. Used for shipping and tax calculations
 $this->eu_countries = array(
