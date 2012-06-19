@@ -652,6 +652,47 @@ $this->ajerbaijan_regions = array(
   "ZAR"=>"Zerdab",
   );
 
+$this->bahamas_regions = array(
+  "AC"=>"Acklins and Crooked Islands",
+  "BI"=>"Bimini",
+  "CI"=>"Cat Island",
+  "EX"=>"Exuma",
+  "FP"=>"Freeport",
+  "FC"=>"Fresh Creek",
+  "GH', "Governor's Harbour"),
+  "GT"=>"Green Turtle Cay",
+  "HI"=>"Harbour Island",
+  "HR"=>"High Rock",
+  "IN"=>"Inaqua",
+  "KB"=>"Kemps Bay",
+  "LI"=>"Long Island",
+  "MH"=>"Marsh Harbour",
+  "MG"=>"Mayaquana",
+  "NP"=>"New Providence",
+  "NB"=>"Nicholls Town and Berry Islands",
+  "RI"=>"Ragged Island",
+  "RS"=>"Rock Sound",
+  "SR"=>"San Salvador and Rum Cay",
+  "SP"=>"Sandy Point",
+  );
+
+$this->bahrain_regions = array(
+  "BH-13"=>"Al Manamah",
+  "BH-14"=>"Al Janubiyah",
+  "BH-15"=>"Al Muharraq",
+  "BH-16"=>"Al Wusta",
+  "BH-17"=>"Ash Shamaliyah",
+  );
+
+$this->bangladesh_regions = array(
+  "1"=>"Barisal",
+  "2"=>"Chittagong",
+  "3"=>"Dhaka",
+  "4"=>"Khulna",
+  "5"=>"Rajshahi",
+  "6"=>"Sylhet",
+  );
+
 
 //European Union Member countries in ISO 3166-1 alpha-2. Used for shipping and tax calculations
 $this->eu_countries = array(
