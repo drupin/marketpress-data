@@ -1016,7 +1016,7 @@ $this->cape_verde_regions = array(
   "TS"=>"Tarrafal de Sao Nicolau"
 );
 
-$this->caman_islands_eegions = array(
+$this->cayman_islands_eegions = array(
   "BT"=>"Bodden Town",
   "CB"=>"Cayman Brac",
   "EE"=>"East End",
