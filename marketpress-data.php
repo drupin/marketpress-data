@@ -570,7 +570,7 @@ $this->austria_regions = array(
   "TIR"=>"Tirol",
   "VOR"=>"Vorarlberg",
   "WIE"=>"Wien",
-  );
+);
 
 $this->ajerbaijan_regions = array(
   "ABS"=>"Absheron",
@@ -650,7 +650,7 @@ $this->ajerbaijan_regions = array(
   "ZAQ"=>"Zagatala",
   "ZAN"=>"Zangilan",
   "ZAR"=>"Zerdab",
-  );
+);
 
 $this->bahamas_regions = array(
   "AC"=>"Acklins and Crooked Islands",
@@ -674,7 +674,7 @@ $this->bahamas_regions = array(
   "RS"=>"Rock Sound",
   "SR"=>"San Salvador and Rum Cay",
   "SP"=>"Sandy Point",
-  );
+);
 
 $this->bahrain_regions = array(
   "BH-13"=>"Al Manamah",
@@ -682,7 +682,7 @@ $this->bahrain_regions = array(
   "BH-15"=>"Al Muharraq",
   "BH-16"=>"Al Wusta",
   "BH-17"=>"Ash Shamaliyah",
-  );
+);
 
 $this->bangladesh_regions = array(
   "1"=>"Barisal",
@@ -691,7 +691,7 @@ $this->bangladesh_regions = array(
   "4"=>"Khulna",
   "5"=>"Rajshahi",
   "6"=>"Sylhet",
-  );
+);
 
 $this->barbados_regions = array(
   "01"=>"Christ Church",
@@ -705,7 +705,7 @@ $this->barbados_regions = array(
   "09"=>"Saint Peter",
   "10"=>"Saint Philip",
   "11"=>"Saint Thomas",
-  );
+);
 
 $this->belarus_regions = array(
   "BR"=>"Brest",
@@ -715,7 +715,7 @@ $this->belarus_regions = array(
   "MA"=>"Mahilyow",
   "MI"=>"Minsk",
   "VI"=>"Vitsyebsk",
-  );
+);
 
 $this->belgium_regions = array(
   "VWV"=>"West-Vlaanderen",
@@ -729,7 +729,7 @@ $this->belgium_regions = array(
   "WHT"=>"Hainaut",
   "WNA"=>"Namur",
   "WLX"=>"Luxembourg",
-  );
+);
 
 $this->belize_regions = array(
   "BZ"=>"Belize",
@@ -738,7 +738,7 @@ $this->belize_regions = array(
   "OW"=>"Orange Walk",
   "SC"=>"Stann Creek",
   "TOL"=>"Toledo",
-  );
+);
 
 $this->benin_regions = array(
   "AL"=>"Alibori",
@@ -753,7 +753,7 @@ $this->benin_regions = array(
   "OU"=>"Ouémé",
   "PL"=>"Plateau",
   "ZO"=>"Zou",
-  );
+);
 
 $this->bermuda_regions = array(
   "DEV"=>"Devonshire",
@@ -767,7 +767,7 @@ $this->bermuda_regions = array(
   "SMI"=>"Smiths",
   "SOU"=>"Southampton",
   "WAR"=>"Warwick",
-  );
+);
 
 $this->bhutan_regions = array(
   "GA"=>"Gasa",
@@ -790,7 +790,7 @@ $this->bhutan_regions = array(
   "43"=>"Pemagatsel",
   "44"=>"Lhuntshi",
   "45"=>"Samdrup Jongkhar",
-  );
+);
 
 $this->bolivia_regions = array(
   "BO-C"=>"Cochabamba",
@@ -802,7 +802,7 @@ $this->bolivia_regions = array(
   "BO-P"=>"Potosí",
   "BO-S"=>"Santa Cruz",
   "BO-T"=>"Tarija",
-  );
+);
 
 $this->bosnia_herzegoniva_regions = array(
   "BIH"=>"Federacija Bosna i Hercegovina",
@@ -817,7 +817,7 @@ $this->bosnia_herzegoniva_regions = array(
   "01"=>"Unsko-Sanski Kanton",
   "08"=>"Zapadno-Hercegovacki Kanton",
   "04"=>"Zenicko-Dobojski Kanton",
-  );
+);
 
 $this->botswana_regions = array(
   "CE"=>"Central",
@@ -829,7 +829,7 @@ $this->botswana_regions = array(
   "NW"=>"North-West",
   "SE"=>"South-East",
   "SO"=>"Southern",
-  );
+);
 
 $this->brazil_regions = array(
   "AC"=>"Acre",
@@ -859,14 +859,14 @@ $this->brazil_regions = array(
   "SP"=>"São Paulo",
   "SE"=>"Sergipe",
   "TO"=>"Tocantins",
-  );
+);
 
 $this->brunei_darussalam_regions = array(
   "BN-BE"=>"Belait",
   "BN-BM"=>"Brunei-Muara",
   "BN-TE"=>"Temburong",
   "BN-TU"=>"Tutong",
-  );
+);
 
 $this->burkina_faso_regions = array(
   "BAL"=>"Bale",
@@ -914,7 +914,7 @@ $this->burkina_faso_regions = array(
   "ZIR"=>"Ziro",
   "ZON"=>"Zondoma",
   "ZOU"=>"Zoundweogo",
-  );
+);
 
 $this->burundi_regions = array(
   "BB"=>"Bubanza",
@@ -934,7 +934,7 @@ $this->burundi_regions = array(
   "NG"=>"Ngozi",
   "RT"=>"Rutana",
   "RY"=>"Ruyigi",
-  );
+);
 
 $this->cambodia_regions = array(
   "2"=>"Baat Dambang",
@@ -976,7 +976,7 @@ $this->cambodia_regions = array(
   "20"=>"Svay Rieng",
   "21"=>"Taakaev",
   "21"=>"Takev",
-  );
+);
 
 $this->cameroon_regions = array(
   "CM-AD"=>"Adamaoua",
@@ -989,7 +989,7 @@ $this->cameroon_regions = array(
   "CM-OU"=>"Ouest",
   "CM-SU"=>"Sud",
   "CM-SW"=>"Sud-Ouest",
-  );
+);
 
 $this->cape_verde_regions = array(
   "BV"=>"Boa Vista",
@@ -1014,7 +1014,7 @@ $this->cape_verde_regions = array(
   "SV"=>"Sao Vicente",
   "TA"=>"Tarrafal",
   "TS"=>"Tarrafal de Sao Nicolau",
-  );
+);
 
 $this->caman_islands_eegions = array(
   "BT"=>"Bodden Town",
@@ -1024,7 +1024,7 @@ $this->caman_islands_eegions = array(
   "SO"=>"Little Cayman",
   "NS"=>"North Side",
   "WB"=>"West Bay",
-  );
+);
 
 $this->central_african_republic_regions = array(
   "BB"=>"Bamingui-Bangoran",
@@ -1044,7 +1044,7 @@ $this->central_african_republic_regions = array(
   "OP"=>"Ouham-Pende",
   "SE"=>"Sangha-Mbaere",
   "VK"=>"Vakaga",
-  );
+);
 
 $this->chad_regions = array(
   "KA"=>"Barh el Ghazel",
@@ -1069,7 +1069,7 @@ $this->chad_regions = array(
   "BET"=>"Tibesti",
   "ND', "Ville de N'Djamena"),
   "WF"=>"Wadi Fira",
-  );
+);
 
 $this->chile_regions = array(
   "TA"=>"Tarapaca",
@@ -1087,7 +1087,7 @@ $this->chile_regions = array(
   "RM"=>"Metropolitana",
   "Ri"=>"Rios",
   "AR"=>"Arica",
-  );
+);
 
 $this->china_regions = array(
   "京"=>"北京",
@@ -1124,7 +1124,7 @@ $this->china_regions = array(
   "港"=>"香港",
   "澳"=>"澳门",
   "台"=>"台湾",
-  );
+);
 
 $this->colombia_regions = array(
   "AMA"=>"Amazonas",
@@ -1159,13 +1159,13 @@ $this->colombia_regions = array(
   "VAC"=>"Valle del Cauca",
   "VAU"=>"Vaupes",
   "VID"=>"Vichada",
-  );
+);
 
 $this->comoros_regions = array(
   "A"=>"Anjouan",
   "G"=>"Grande Comore",
   "M"=>"Moheli",
-  );
+);
 
 $this->congo_regions = array(
   "11"=>"Bouenza",
@@ -1179,7 +1179,7 @@ $this->congo_regions = array(
   "14"=>"Plateaux",
   "12"=>"Pool",
   "13"=>"Sangha",
-  );
+);
 
 $this->congo_democratic_republic_regions = array(
   "CD-KN"=>"Kinshasa",
@@ -1193,7 +1193,7 @@ $this->congo_democratic_republic_regions = array(
   "CD-NK"=>"Nord-Kivu",
   "CD-OR"=>"Orientale",
   "CD-SK"=>"Sud-Kivu",
-  );
+);
 
 $this->costa_rica_regions = array(
   "AL"=>"Alajuela",
@@ -1203,7 +1203,7 @@ $this->costa_rica_regions = array(
   "LI"=>"Limón",
   "PU"=>"Puntarenas",
   "SJ"=>"San José",
-  );
+);
 
 $this->croatia_regions = array(
   "01"=>"Zagreb county",
@@ -1227,7 +1227,7 @@ $this->croatia_regions = array(
   "19"=>"Dubrovnik-Neretva county",
   "20"=>"Međimurje county",
   "21"=>"Zagreb",
-  );
+);
 
 $this->cuba_regions = array(
   "01"=>"Pinar del Rio",
@@ -1245,7 +1245,7 @@ $this->cuba_regions = array(
   "13"=>"Santiago de Cuba",
   "14"=>"Sancti Spiritus",
   "99"=>"Isla de la Juventud",
-  );
+);
 
 $this->cyprus_regions = array(
   "04"=>"Famagusta",
@@ -1254,7 +1254,7 @@ $this->cyprus_regions = array(
   "02"=>"Limassol",
   "01"=>"Nicosia",
   "05"=>"Paphos')
-  );
+);
 
 $this->czech_republic_regions = array(
   "PHA"=>"Praha",
@@ -1271,7 +1271,7 @@ $this->czech_republic_regions = array(
   "OLK"=>"Olomoucký kraj",
   "ZLK"=>"Zlínský kraj",
   "MSK"=>"Moravskoslezský kraj",
-  );
+);
 
 
 $this->denmark_regions = array(
@@ -1280,7 +1280,7 @@ $this->denmark_regions = array(
   "DK-81"=>"Nordjylland",
   "DK-85"=>"Sjælland",
   "DK-83"=>"Syddanmark",
-  );
+);
 
 $this->djibouti_regions = array(
   "AS"=>"Ali Sabieh",
@@ -1289,7 +1289,7 @@ $this->djibouti_regions = array(
   "DJ"=>"Djibouti",
   "OB"=>"Obock",
   "TA"=>"Tadjourah",
-  );
+);
 
 $this->dominica_regions = array(
   "02"=>"Saint Andrew",
@@ -1302,7 +1302,7 @@ $this->dominica_regions = array(
   "09"=>"Saint Patrick",
   "10"=>"Saint Paul",
   "11"=>"Saint Peter",
-  );
+);
 
 $this->dominican_republic_regions = array(
   "DN"=>"Distrito Nacional",
@@ -1337,7 +1337,7 @@ $this->dominican_republic_regions = array(
   "ST"=>"Santiago Rodriguez",
   "SD"=>"Santo Domingo",
   "VA"=>"Valverde",
-  );
+);
 
 $this->ecuador_regions = array(
   "A"=>"Azuay",
@@ -1362,7 +1362,7 @@ $this->ecuador_regions = array(
   "U"=>"Sucumbios",
   "T"=>"Tungurahua",
   "Z"=>"Zamora-Chichipe",
-    );
+);
 
 $this->egypt_regions = array(
   "MUH"=>"مرسى مطروح",
@@ -1392,7 +1392,7 @@ $this->egypt_regions = array(
   "DT"=>"دمياط",
   "KN"=>"قنا",
   "CAI"=>"القاهرة",
-  );
+);
 
 $this->el_salvador_regions = array(
   "AH"=>"Ahuachapan",
@@ -1409,7 +1409,7 @@ $this->el_salvador_regions = array(
   "SA"=>"Santa Ana",
   "SO"=>"Sonsonate",
   "US"=>"Usulutan",
-  );
+);
 
 $this->equitorial_guinea_regions = array(
   "GQ-AN"=>"Annobon",
@@ -1419,7 +1419,7 @@ $this->equitorial_guinea_regions = array(
   "GQ-KN"=>"Kie-Ntem",
   "GQ-LI"=>"Litoral",
   "GQ-WN"=>"Wele-Nzas",
-  );
+);
 
 $this->eritrea_regions = array(
   "AN"=>"Anseba",
@@ -1428,7 +1428,7 @@ $this->eritrea_regions = array(
   "GB"=>"Gash Barka",
   "MA"=>"Maekel",
   "Sk"=>"Semenawi Keyih Bahri",
-  );
+);
 
 $this->estonia_regions = array(
   "37"=>"Harjumaa",
@@ -1446,7 +1446,7 @@ $this->estonia_regions = array(
   "82"=>"Valgamaa",
   "84"=>"Viljandimaa",
   "86"=>"Võrumaa",
-  );
+);
 
 $this->ethiopia_regions = array(
   "ET-AA"=>"Addis Ababa",
@@ -1460,7 +1460,7 @@ $this->ethiopia_regions = array(
   "ET-SO"=>"Somali",
   "ET-TI"=>"Tigrai",
   "ET-SN"=>"Southern Nations, Nationalities and Peoples",
-  );
+);
 
 $this->faroe_islands_regions = array(
   "NO"=>"Norderoerne",
@@ -1470,7 +1470,7 @@ $this->faroe_islands_regions = array(
   "SN"=>"Sudero Nordre",
   "SS"=>"Sudero Sondre",
   "VG"=>"Vago",
-  );
+);
 
 $this->fiji_islands_regions = array(
   "BA"=>"Ba",
@@ -1488,7 +1488,7 @@ $this->fiji_islands_regions = array(
   "RT"=>"Rotuma",
   "SR"=>"Serua",
   "TL"=>"Tailevu",
-  );
+);
 
 $this->france_regions = array(
   "FR-01"=>"Ain",
@@ -1593,7 +1593,7 @@ $this->france_regions = array(
   "FR-TF"=>"French Southern Territories",
   "FR-YT"=>"Mayotte",
   "FR-WF"=>"Wallis and Futuna",
-  );
+);
 
 $this->gabon_regions = array(
   "1"=>"Estuaire",
@@ -1605,7 +1605,7 @@ $this->gabon_regions = array(
   "7"=>"OgoouE-Lolo",
   "8"=>"Ogooue-Maritime",
   "9"=>"Woleu-Ntem",
-  );
+);
 
 $this->georgia_regions = array(
   "AB"=>"Abkhazia",
@@ -1620,7 +1620,7 @@ $this->georgia_regions = array(
   "SJ', "Samts'khe-Javakhet'i"),
   "SK', "Shida K'art'li"),
   "TB', "T'bilisi"),
-  );
+);
 
 $this->germany_regions = array(
   "BAW"=>"Baden-Württemberg",
@@ -1639,7 +1639,7 @@ $this->germany_regions = array(
   "SAC"=>"Sachsen-Anhalt",
   "SCN"=>"Schleswig-Holstein",
   "THE"=>"Thüringen",
-  );
+);
 
 $this->ghana_regions = array(
   "GH-AH"=>"Ashanti",
@@ -1652,7 +1652,7 @@ $this->ghana_regions = array(
   "GH-UW"=>"Upper West",
   "GH-TV"=>"Volta",
   "GH-WP"=>"Western",
-  );
+);
 
 $this->greece_regions = array(
   "ATT"=>"Αττική",
@@ -1706,7 +1706,7 @@ $this->greece_regions = array(
   "HAL"=>"Χαλκιδική",
   "HAN"=>"Χανιά",
   "HIO"=>"Χίος",
-  );
+);
 
 $this->greenland_regions = array(
   "NK"=>"Nuuk",
@@ -1741,7 +1741,7 @@ $this->greenland_regions = array(
   "DH"=>"Danmarkshavn",
   "CP"=>"Constable Pynt",
   "SS"=>"Slædepatruljen Sirius",
-  );
+);
 
 $this->guatemala_regions = array(
   "AV"=>"Alta Verapaz",
@@ -1766,7 +1766,7 @@ $this->guatemala_regions = array(
   "SU"=>"Suchitepequez",
   "TO"=>"Totonicapan",
   "ZA"=>"Zacapa",
-  );
+);
 
 $this->guinea_regions = array(
   "GN-BE"=>"Beyla",
@@ -1802,7 +1802,7 @@ $this->guinea_regions = array(
   "GN-TE"=>"Télimélé",
   "GN-TO"=>"Tougué",
   "GN-YO"=>"Yomou",
-  );
+);
 
 $this->guinea_bissau_regions = array(
   "GW-BS"=>"Bissau",
@@ -1814,7 +1814,7 @@ $this->guinea_bissau_regions = array(
   "GW-OI"=>"Oio",
   "GW-QU"=>"Quinara",
   "GW-TO"=>"Tombali",
-  );
+);
 
 $this->guyana_regions = array(
   "GY-BA"=>"Barima-Waini",
@@ -1827,7 +1827,7 @@ $this->guyana_regions = array(
   "GY-PT"=>"Potaro-Siparuni",
   "GY-UD"=>"Upper Demerara-Berbice",
   "GY-UT"=>"Upper Takutu-Upper Essequibo",
-  );
+);
 
 $this->haiti_regions = array(
   "HT-AR"=>"Artibonite",
@@ -1840,7 +1840,7 @@ $this->haiti_regions = array(
   "HT-OU"=>"Ouest",
   "HT-SD"=>"Sud",
   "HT-SE"=>"Sud-Est",
-  );
+);
 
 $this->honduras_regions = array(
   "HN-AT"=>"Atlántida",
@@ -1861,12 +1861,12 @@ $this->honduras_regions = array(
   "HN-SB"=>"Santa Bárbara",
   "HN-VA"=>"Valle",
   "HN-YO"=>"Yoro",
-  );
+);
 
 $this->hong_kong_regions = array(
   "HK"=>"Hong Kong",
   "NT"=>"New Territories",
-  );
+);
 
 $this->hungary_regions = array(
   "BUD"=>"Budapest",
@@ -1889,7 +1889,7 @@ $this->hungary_regions = array(
   "VAS"=>"Vas",
   "VES"=>"Veszprém",
   "ZAL"=>"Zala",
-  );
+);
 
 $this->iceland_regions = array(
   "IS-7"=>"Austurland",
@@ -1901,7 +1901,7 @@ $this->iceland_regions = array(
   "IS-2"=>"Suðurnes",
   "IS-4"=>"Vestfirðir",
   "IS-3"=>"Vesturland",
-  );
+);
 
 $this->india_regions = array(
   "AN"=>"Andaman and Nicobar",
@@ -1939,7 +1939,7 @@ $this->india_regions = array(
   "UL"=>"Uttarakhand",
   "UP"=>"Uttar Pradesh",
   "WB"=>"West Bengal",
-  );
+);
 
 $this->indonesia_regions = array(
   "NAD"=>"Nanggroe Aceh Darussalam",
@@ -1975,7 +1975,7 @@ $this->indonesia_regions = array(
   "Malut"=>"Maluku Utara",
   "Papua"=>"Papua",
   "Irjabar"=>"Irian Jaya Barat",
-  );
+);
 
 $this->iran_regions = array(
   "AS"=>"آذربایجان شرقی",
@@ -2008,7 +2008,7 @@ $this->iran_regions = array(
   "HR"=>"هرمزگان",
   "HM"=>"همدان",
   "YZ"=>"یزد",
-  );
+);
 
 $this->iraq_regions = array(
   "IQ-AN"=>"Al Anbār",
@@ -2029,7 +2029,7 @@ $this->iraq_regions = array(
   "IQ-NI"=>"Nīnawá",
   "IQ-SD"=>"Şalāḩ ad Dīn",
   "IQ-WA"=>"Wāsiţ",
-  );
+);
 
 $this->ireland_regions = array(
   "CARLOW"=>"Co. Carlow",
@@ -2058,7 +2058,7 @@ $this->ireland_regions = array(
   "WESTMEATH"=>"Co. Westmeath",
   "WEXFORD"=>"Co. Wexford",
   "WICKLOW"=>"Co. Wicklow",
-  );
+);
 
 $this->israel_regions = array(
   "BS', "Be'er Sheva"),
@@ -2072,7 +2072,7 @@ $this->israel_regions = array(
   "SE"=>"Semaria",
   "SH"=>"Sharon",
   "TA"=>"Tel Aviv (Gosh Dan)",
-  );
+);
 
 $this->italy_regions = array(
   "AG"=>"Agrigento",
@@ -2187,7 +2187,7 @@ $this->italy_regions = array(
   "VV"=>"Vibo Valentia",
   "RSM"=>"Rep San Marino",
   "CTV"=>"Città del Vaticano",
-  );
+);
 
 $this->jamaica_regions = array(
   "JM-13"=>"Clarendon",
@@ -2204,7 +2204,7 @@ $this->jamaica_regions = array(
   "JM-03"=>"Saint Thomas",
   "JM-07"=>"Trelawny",
   "JM-10"=>"Westmoreland",
-  );
+);
 
 $this->japan_regions = array(
   "01"=>"北海道",
@@ -2254,7 +2254,7 @@ $this->japan_regions = array(
   "45"=>"宮崎県",
   "46"=>"鹿児島県",
   "47"=>"沖縄県",
-  );
+);
 
 $this->jorda_regions = array(
   "JO-AJ', "'Ajlūn"),
@@ -2269,7 +2269,7 @@ $this->jorda_regions = array(
   "JO-JA"=>"Jarash",
   "JO-MN', "Ma'ٰān"),
   "JO-MD"=>"Mādaba",
-  );
+);
 
 $this->kazakhstan_regions = array(
   "ALA"=>"Алматы",
@@ -2288,7 +2288,7 @@ $this->kazakhstan_regions = array(
   "PVL"=>"Павлодарская область",
   "NKZ"=>"Северо-Казахстанская область",
   "SKZ"=>"Южно-Казахстанская область",
-  );
+);
 
 $this->kenya_regions = array(
   "700"=>"Bonde la Ufa",
@@ -2305,13 +2305,13 @@ $this->kenya_regions = array(
   "300"=>"Pwani",
   "700"=>"Rift Valley",
   "800"=>"Western",
-  );
+);
 
 $this->kiribati_regions = array(
   "KI-G"=>"Gilbert Islands",
   "KI-L"=>"Line Islands",
   "KI-P"=>"Phoenix Islands",
-  );
+);
 
 $this->korea_democratic_peoples_republic_regions = array(
   "KP-01"=>"P’yŏngyang",
@@ -2325,7 +2325,7 @@ $this->korea_democratic_peoples_republic_regions = array(
   "KP-08"=>"Hamgyŏng-namdo",
   "KP-09"=>"Hamgyŏng-bukto",
   "KP-10"=>"Yanggang-do",
-  );
+);
 
 $this->korea_republic_regions = array(
   "CO', "Ch'ungch'ong-bukto"),
@@ -2343,7 +2343,7 @@ $this->korea_republic_regions = array(
   "SO', "Soul-t'ukpyolsi"),
   "TA"=>"Taegu-gwangyoksi",
   "TG"=>"Taejon-gwangyoksi",
-  );
+);
 
 $this->kuwait_regions = array(
   "KW-AH"=>"Al Aḩmadi",
@@ -2352,7 +2352,7 @@ $this->kuwait_regions = array(
   "KW-KU"=>"Al Kuwayt",
   "KW-HA"=>"Hawallī !Ḩawallī",
   "KW-MU"=>"Mubārak al Kabīr",
-  );
+);
 
 $this->kyrgyzstan_regions = array(
   "KG-GB"=>"Bishkek",
@@ -2363,7 +2363,191 @@ $this->kyrgyzstan_regions = array(
   "KG-O"=>"Osh",
   "KG-T"=>"Talas",
   "KG-Y"=>"Ysyk-Köl",
-  );
+);
+
+$this->laos_regions = array(
+  "LA-VT"=>"Vientiane",
+  "LA-AT"=>"Attapu [Attopeu]",
+  "LA-BK"=>"Bokè",
+  "LA-BL"=>"Bolikhamxai [Borikhane]",
+  "LA-CH"=>"Champasak [Champassak]",
+  "LA-HO"=>"Houaphan",
+  "LA-KH"=>"Khammouan",
+  "LA-LM"=>"Louang Namtha",
+  "LA-LP"=>"Louangphabang [Louang Prabang]",
+  "LA-OU"=>"Oudômxai [Oudomsai]",
+  "LA-PH"=>"Phôngsali [Phong Saly]",
+  "LA-SL"=>"Salavan [Saravane]",
+  "LA-SV"=>"Savannakhé",
+  "LA-VI"=>"Vientiane",
+  "LA-XA"=>"Xaignabouli",
+  "LA-XE"=>"Xekong",
+  "LA-XI"=>"Xiangkhoang [Xieng Khouang]",
+  "LA-XN"=>"Xaisômbou",
+);
+
+$this->latvia_regions = array(
+  "AI"=>"Aizkraukles rajons",
+  "AL"=>"Alūksnes rajons",
+  "BL"=>"Balvu rajons",
+  "BU"=>"Bauskas rajons",
+  "CE"=>"Cēsu rajons",
+  "DGV"=>"Daugavpils pilsēta",
+  "DA"=>"Daugavpils rajons",
+  "DO"=>"Dobeles rajons",
+  "GU"=>"Gulbenes rajons",
+  "JK"=>"Jēkabpils rajons",
+  "JEL"=>"Jelgavas pilsēta",
+  "JL"=>"Jelgavas rajons",
+  "JUR"=>"Jūrmalas pilsēta",
+  "KR"=>"Krāslavas rajons",
+  "KU"=>"Kuldīgas rajons",
+  "LPX"=>"Liepājas pilsēta",
+  "LE"=>"Liepājas rajons",
+  "LM"=>"Limbažu rajons",
+  "LU"=>"Ludzas rajons",
+  "MA"=>"Madonas rajons",
+  "OG"=>"Ogres rajons",
+  "PR"=>"Preiļu rajons",
+  "REZ"=>"Rēzeknes pilsēta",
+  "RE"=>"Rēzeknes rajons",
+  "RIX"=>"Rīgas pilsēta",
+  "RI"=>"Rīgas rajons",
+  "SA"=>"Saldus rajons",
+  "TA"=>"Talsu rajons",
+  "TU"=>"Tukuma rajons",
+  "VK"=>"Valkas rajons",
+  "VM"=>"Valmieras rajons",
+  "VEN"=>"Ventspils pilsēta",
+  "VE"=>"Ventspils rajons",
+);
+
+$this->lebanon_regions = array(
+  "LB-AK"=>"Aakkâr",
+  "LB-BH"=>"Baalbek-Hermel",
+  "LB-BI"=>"Beqaa",
+  "LB-BA"=>"Beyrouth",
+  "LB-AS"=>"Liban-Nord",
+  "LB-JA"=>"Liban-Sud",
+  "LB-JL"=>"Mont-Liban",
+  "LB-NA"=>"Nabatîyé",
+);
+
+$this->lesotho_regions = array(
+  "LS-D"=>"Berea",
+  "LS-B"=>"Butha-Buthe",
+  "LS-C"=>"Leribe",
+  "LS-E"=>"Mafeteng",
+  "LS-A"=>"Maseru",
+  "LS-F', "Mohale's Hoek"),
+  "LS-J"=>"Mokhotlong",
+  "LS-H', "Qacha's Nek"),
+  "LS-G"=>"Quthing",
+  "LS-K"=>"Thaba-Tseka",
+);
+
+$this->liberia_regions = array(
+  "LR-BM"=>"Bomi",
+  "LR-BG"=>"Bong",
+  "LR-GP"=>"Gbarpolu",
+  "LR-GB"=>"Grand Bassa",
+  "LR-CM"=>"Grand Cape Mount",
+  "LR-GG"=>"Grand Gedeh",
+  "LR-GK"=>"Grand Kru",
+  "LR-LO"=>"Lofa",
+  "LR-MG"=>"Margibi",
+  "LR-MY"=>"Maryland",
+  "LR-MO"=>"Montserrado",
+  "LR-NI"=>"Nimba",
+  "LR-RI"=>"Rivercess",
+  "LR-RG"=>"RiverGee",
+  "LR-SI"=>"Sinoe",
+);
+
+$this->libya_regions = array(
+  "LY-BU"=>"Al Buţnān",
+  "LY-JA"=>"Al Jabal al Akhḑar",
+  "LY-JG"=>"Al Jabal al Gharbī",
+  "LY-JI"=>"Al Jifārah",
+  "LY-JU"=>"Al Jufrah",
+  "LY-KF"=>"Al Kufrah",
+  "LY-MJ"=>"Al Marj",
+  "LY-MB"=>"Al Marqab",
+  "LY-WA"=>"Al Wāḩāt",
+  "LY-NQ"=>"An Nuqaţ al Khams",
+  "LY-ZA"=>"Az Zāwiyah",
+  "LY-BA"=>"Banghāzī",
+  "LY-DR"=>"Darnah",
+  "LY-GT"=>"Ghāt",
+  "LY-MI"=>"Mişrātah",
+  "LY-MQ"=>"Murzuq",
+  "LY-NL"=>"Nālūt",
+  "LY-SB"=>"Sabhā",
+  "LY-SR"=>"Surt",
+  "LY-TB"=>"Tarābulus",
+  "LY-WD"=>"Wādī al Ḩayāt",
+  "LY-WS"=>"Wādī ash Shāţiʾ",
+);
+
+$this->liechtenstein_regions = array(
+  "LI-01"=>"Balzers",
+  "LI-02"=>"Eschen",
+  "LI-03"=>"Gamprin",
+  "LI-04"=>"Mauren",
+  "LI-05"=>"Planken",
+  "LI-06"=>"Ruggell",
+  "LI-07"=>"Schaan",
+  "LI-08"=>"Schellenberg",
+  "LI-09"=>"Triesen",
+  "LI-10"=>"Triesenberg",
+  "LI-11"=>"Vaduz",
+);
+
+$this->lithuania_regions = array(
+  "AK"=>"Akmenės rajonas",
+  "AL"=>"Alytaus rajonas",
+  "AN"=>"Anykščių rajonas",
+  "BIR"=>"Biržų rajonas",
+  "IG"=>"Ignalinos rajonas",
+  "JON"=>"Jonavos rajonas",
+  "JO"=>"Joniškio rajonas",
+  "JUR"=>"Jurbarko rajonas",
+  "KAI"=>"Kaišiadorių rajonas",
+  "KA"=>"Kauno rajonas",
+  "KE"=>"Kėdainių rajonas",
+  "KEL"=>"Kelmės rajonas",
+  "KLA"=>"Klaipėdos rajonas",
+  "KR"=>"Kretingos rajonas",
+  "KU"=>"Kupiškio rajonas",
+  "LA"=>"Lazdijų rajonas",
+  "MA"=>"Mažeikių rajonas",
+  "MO"=>"Molėtų rajonas",
+  "PA"=>"Pakruojo rajonas",
+  "PAN"=>"Panevėžio rajonas",
+  "PAS"=>"Pasvalio rajonas",
+  "PLU"=>"Plungės rajonas",
+  "PR"=>"Prienų rajonas",
+  "RA"=>"Radviliškio rajonas",
+  "RAS"=>"Raseinių rajonas",
+  "RO"=>"Rokiškio rajonas",
+  "SK"=>"Skuodo rajonas",
+  "SA"=>"Šakių rajonas",
+  "SAL"=>"Šalčininkų rajonas",
+  "SIA"=>"Šiaulių rajonas",
+  "SI"=>"Šilalės rajonas",
+  "SIL"=>"Šilutės rajonas",
+  "SIR"=>"Širvintų rajonas",
+  "SV"=>"Švenčionių rajonas",
+  "TA"=>"Tauragės rajonas",
+  "TE"=>"Telšių rajonas",
+  "TR"=>"Trakų rajonas",
+  "UK"=>"Ukmergės rajonas",
+  "UT"=>"Utenos rajonas",
+  "VA"=>"Varėnos rajonas",
+  "VI"=>"Vilkaviškio rajonas",
+  "VIL"=>"Vilniaus rajonas",
+  "ZAR"=>"Zarasų rajonas",
+);
 
 //European Union Member countries in ISO 3166-1 alpha-2. Used for shipping and tax calculations
 $this->eu_countries = array(
