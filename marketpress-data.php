@@ -693,6 +693,53 @@ $this->bangladesh_regions = array(
   "6"=>"Sylhet",
   );
 
+$this->barbados_regions = array(
+  "01"=>"Christ Church",
+  "02"=>"Saint Andrew",
+  "03"=>"Saint George",
+  "04"=>"Saint James",
+  "05"=>"Saint John",
+  "06"=>"Saint Joseph",
+  "07"=>"Saint Lucy",
+  "08"=>"Saint Michael",
+  "09"=>"Saint Peter",
+  "10"=>"Saint Philip",
+  "11"=>"Saint Thomas",
+  );
+
+$this->belarus_regions = array(
+  "BR"=>"Brest",
+  "HO"=>"Homyel",
+  "HM"=>"Horad Minsk",
+  "HR"=>"Hrodna",
+  "MA"=>"Mahilyow",
+  "MI"=>"Minsk",
+  "VI"=>"Vitsyebsk",
+  );
+
+$this->belgium_regions = array(
+  "VWV"=>"West-Vlaanderen",
+  "VOV"=>"Oost-Vlaanderen",
+  "VAN"=>"Antwerpen",
+  "VLI"=>"Limburg",
+  "VBR"=>"Vlaams-Brabant",
+  "BRU"=>"Brussel/Bruxelles",
+  "WBW"=>"Brabant-Wallon",
+  "WLG"=>"Liège",
+  "WHT"=>"Hainaut",
+  "WNA"=>"Namur",
+  "WLX"=>"Luxembourg",
+  );
+
+$this->belize_regions = array(
+  "BZ"=>"Belize",
+  "CY"=>"Cayo",
+  "CZL"=>"Corozal",
+  "OW"=>"Orange Walk",
+  "SC"=>"Stann Creek",
+  "TOL"=>"Toledo",
+  );
+
 
 //European Union Member countries in ISO 3166-1 alpha-2. Used for shipping and tax calculations
 $this->eu_countries = array(
